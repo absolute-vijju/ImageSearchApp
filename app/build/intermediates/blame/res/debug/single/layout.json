@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_details.xml",
+        "source": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/src/main/res/layout/fragment_details.xml"
+    },
+    {
+        "merged": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_unsplash_photo.xml",
+        "source": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/src/main/res/layout/item_unsplash_photo.xml"
+    },
+    {
+        "merged": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_gallery.xml",
+        "source": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/unsplash_photo_load_state_footer.xml",
+        "source": "/home/iball/Desktop/Vijay's Work/ImageSearchApp/app/src/main/res/layout/unsplash_photo_load_state_footer.xml"
+    }
+]
