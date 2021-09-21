@@ -1,4 +1,4 @@
-package com.codinginflow.imagesearchapp.ui.gallery
+package com.developervijay.imagesearchapp.ui.gallery
 
 import androidx.hilt.Assisted
 import androidx.hilt.lifecycle.ViewModelInject
@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.switchMap
 import androidx.lifecycle.viewModelScope
 import androidx.paging.cachedIn
-import com.codinginflow.imagesearchapp.data.UnsplashRepository
+import com.developervijay.imagesearchapp.data.UnsplashRepository
 
 class GalleryViewModel @ViewModelInject constructor(
     private val repository: UnsplashRepository,

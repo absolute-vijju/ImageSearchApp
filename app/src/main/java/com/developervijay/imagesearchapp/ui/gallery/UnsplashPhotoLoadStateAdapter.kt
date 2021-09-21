@@ -1,4 +1,4 @@
-package com.codinginflow.imagesearchapp.ui.gallery
+package com.developervijay.imagesearchapp.ui.gallery
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -6,7 +6,7 @@ import androidx.core.view.isVisible
 import androidx.paging.LoadState
 import androidx.paging.LoadStateAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.codinginflow.imagesearchapp.databinding.UnsplashPhotoLoadStateFooterBinding
+import com.developervijay.imagesearchapp.databinding.UnsplashPhotoLoadStateFooterBinding
 
 class UnsplashPhotoLoadStateAdapter(val retry: () -> Unit) :
     LoadStateAdapter<UnsplashPhotoLoadStateAdapter.LoadStateViewHolder>() {

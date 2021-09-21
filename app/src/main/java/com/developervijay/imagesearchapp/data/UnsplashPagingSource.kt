@@ -1,7 +1,7 @@
-package com.codinginflow.imagesearchapp.data
+package com.developervijay.imagesearchapp.data
 
 import androidx.paging.PagingSource
-import com.codinginflow.imagesearchapp.api.UnsplashApi
+import com.developervijay.imagesearchapp.api.UnsplashApi
 import retrofit2.HttpException
 import java.io.IOException
 

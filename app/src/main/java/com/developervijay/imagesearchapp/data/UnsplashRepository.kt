@@ -1,9 +1,9 @@
-package com.codinginflow.imagesearchapp.data
+package com.developervijay.imagesearchapp.data
 
 import androidx.paging.Pager
 import androidx.paging.PagingConfig
 import androidx.paging.liveData
-import com.codinginflow.imagesearchapp.api.UnsplashApi
+import com.developervijay.imagesearchapp.api.UnsplashApi
 import javax.inject.Inject
 import javax.inject.Singleton
 
