@@ -6,4 +6,7 @@
 ### 5. Paging 3
 ### 6. Unsplash API
 ### 7. Diffutil and many more.
-#### Note: Put your Unsplash Access Key into gradle.properties then Sync the project ✌ (https://unsplash.com/documentation).
+#### Note: Put your Unsplash Access Key into gradle.properties then Sync the project ✌ (https://unsplash.com/documentation).<br> If helpful give ⭐.
+
+#### Output:
+Uploading VID-20210923-WA0001.mp4…
